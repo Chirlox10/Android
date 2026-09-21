@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+    <string name="login_title">Login</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_enter">Entrar</string>
+    <string name="error_username_required">Se requiere usuario</string>
+    <string name="error_password_required">Se requiere contraseña</string>
+    <string name="login_success">Login exitoso para %1$s</string>
+    <string name="error_invalid_credentials">Usuario o contraseña incorrectas</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="btn_nav_product_management">Manejo de productos</string>
+    <string name="btn_nav_activity_log">log de actividades</string>
+    <string name="btn_log_access_entrance">Marcar registro</string>
+    <string name="btn_log_access_exit">Quitar registro</string>
+    <string name="log_app_entrance">Entrada Registrada</string>
+    <string name="log_app_exit">Salida registrada</string>
+    <string name="btn_register_product">Registrar producto</string>
+    <string name="btn_modify_product">Modificar producto</string>
+    <string name="btn_search_product">Buscar producto</string>
+    <string name="btn_delete_product">Borrar producto</string>
+    <string name="label_recent_activity">log de actividades recientes</string>
+    <string name="log_empty">Ninguna accion se ha tomado aun.</string>
+    <string name="hint_product_name">Nombre de producto</string>
+    <string name="hint_product_price">Precio de producto</string>
+    <string name="error_name_required">Se requiere nombre de producto</string>
+    <string name="error_price_required">Se requiere precio de producto</string>
+    <string name="log_format">%1$s: %2$s ($%3$s)</string>
+    <string name="log_search_format">%1$s: Query = %2$s</string>
+
+    <!-- Stock -->
+    <string name="btn_nav_stock">Inventario / Stock</string>
+    <string name="btn_update_stock">Actualizar Stock</string>
+    <string name="title_stock">Control de Stock</string>
+</resources>
