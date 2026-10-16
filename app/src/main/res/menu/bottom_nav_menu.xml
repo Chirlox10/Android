@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_products"
+        android:icon="@drawable/ic_inventory_24"
+        android:title="Productos" />
+    <item
+        android:id="@+id/nav_categories"
+        android:icon="@drawable/ic_category_24"
+        android:title="Categorías" />
+    <item
+        android:id="@+id/nav_suppliers"
+        android:icon="@drawable/ic_local_shipping_24"
+        android:title="Proveedores" />
+    <item
+        android:id="@+id/nav_users"
+        android:icon="@drawable/ic_people_24"
+        android:title="Usuarios" />
+</menu>
