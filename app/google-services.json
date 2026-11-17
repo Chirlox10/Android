@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514999508889",
+    "project_id": "lafuegobase",
+    "storage_bucket": "lafuegobase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514999508889:android:eda217b3bbbb7dfc47bd08",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeLSNZ5npX7XI1I6sr5VFgBIlWL5vjrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
